@@ -1,0 +1,64 @@
+.about{
+   
+    width: 100%;
+    height: 250px;
+    padding: 20px;
+    margin-top: 30px;
+ }
+ 
+ .img{
+     width: 300px;
+     
+ }
+ 
+ .h1{
+     color: black;
+     margin-left: 40%;
+ }
+ 
+ .p1{
+     padding-top: 20px;
+ }
+ 
+ .p2{
+     color: black;
+ }
+ 
+ .meshal{
+     color: black;
+ }
+ 
+ .img{
+     width: 150px;
+     height: 90px;
+     box-shadow: 10px 10px #1d3945;
+     margin-left: 70%;
+ }
+ 
+ .اعمالي{
+     
+  width: 100%;
+  height: 100px;
+  
+ }
+ 
+ .hp{
+     color: black;
+     margin-left: 43%;
+ }
+ 
+ .container{
+     background-color: white;
+     text-align: center;
+ }
+ 
+ .cell{
+     width: 300px;
+      margin: 10px;
+      text-align: center;
+      line-height: 75px;
+      font-size: 30px
+      border-style: solid;
+      border-radius: 5px;
+ 
+    }
